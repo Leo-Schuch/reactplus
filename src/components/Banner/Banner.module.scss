@@ -1,3 +1,4 @@
+@import "../../styles/variaveis";
 .banner {
     width: 88%;
     img {
@@ -13,7 +14,7 @@
       color: #d9d9d9;
       font-size: 2.5rem;
       width: 401px;
-      font-family: "GandhiSansBold";
+      font-family: $fonte-bold;
       height: 144px;
       top: 55px;
       left: 44px;
